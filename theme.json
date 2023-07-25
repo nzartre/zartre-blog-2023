@@ -493,7 +493,8 @@
           "cite": {
             "typography": {
               "fontSize": "var(--wp--preset--font-size--small)",
-              "fontStyle": "normal"
+              "fontStyle": "normal",
+              "fontWeight": "400"
             }
           }
         },
@@ -502,6 +503,10 @@
             "left": "var(--wp--preset--spacing--30)",
             "right": "var(--wp--preset--spacing--30)"
           }
+        },
+        "typography": {
+          "fontSize": "var(--wp--preset--font-size--large)",
+          "fontWeight": "300"
         }
       },
       "core/site-title": {
