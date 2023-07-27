@@ -151,9 +151,25 @@
               ]
             }
           ],
-          "fontFamily": "Figtree, serif",
+          "fontFamily": "Figtree, \"Helvetica Neue\", sans-serif",
           "name": "Figtree",
           "slug": "figtree"
+        },
+        {
+          "fontFace": [
+            {
+              "fontFamily": "Instrument Serif",
+              "fontStretch": "normal",
+              "fontStyle": "normal",
+              "fontWeight": "400",
+              "src": [
+                "https://fonts.gstatic.com/s/instrumentserif/v4/jizBRFtNs2ka5fXjeivQ4LroWlx-6zUTjnTLgNs.woff2"
+              ]
+            }
+          ],
+          "fontFamily": "\"Instrument Serif\", serif",
+          "name": "Instrument Serif",
+          "slug": "instrument-serif"
         }
       ],
       "fontSizes": [
