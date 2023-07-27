@@ -514,7 +514,6 @@
           }
         },
         "typography": {
-          "fontFamily": "var(--wp--preset--font-family--figtree)",
           "fontSize": "var(--wp--preset--font-size--medium)",
           "fontWeight": "500",
           "lineHeight": "1.4"
@@ -595,7 +594,7 @@
       },
       "heading": {
         "typography": {
-          "fontFamily": "var(--wp--preset--font-family--figtree)",
+          "fontFamily": "var(--wp--preset--font-family--instrument-serif)",
           "lineHeight": "1.4"
         }
       },
