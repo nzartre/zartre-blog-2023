@@ -521,7 +521,7 @@
       }
     },
     "color": {
-      "background": "var(--wp--preset--color--base)",
+      "background": "linear-gradient(180deg, var(--wp--preset--color--base) 0%, #fff 700px)",
       "text": "var(--wp--preset--color--contrast)"
     },
     "elements": {
