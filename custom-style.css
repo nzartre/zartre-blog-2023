@@ -1,5 +1,5 @@
 body {
-    background: linear-gradient(180deg, var(--wp--preset--color--base) 0%, #fff 700px);
+    background: linear-gradient(180deg, var(--wp--preset--color--base) 0%, #fff 700px) no-repeat;
 }
 
 .wp-block-image figcaption {
