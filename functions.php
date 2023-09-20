@@ -6,3 +6,10 @@ if ( ! function_exists('thr_enqueue_styles') ) {
     }
     add_action('wp_enqueue_scripts', 'thr_enqueue_styles');
 }
+
+function meta_theme_color(){
+?>
+    <meta name="theme-color" content="#fff6f4">
+<?php
+}
+add_action('wp_head', 'meta_theme_color');
