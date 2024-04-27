@@ -13,3 +13,13 @@ body {
 img.avatar.avatar-48.photo {
 	border-radius: 50%
 }
+
+/* Vertical align images in a gallery block */
+
+figure.wp-block-gallery.has-nested-images {
+	align-items: center;
+}
+.wp-block-gallery.has-nested-images:not(.is-cropped)
+    figure.wp-block-image:not(#individual-image) {
+	margin-bottom: unset;
+}
